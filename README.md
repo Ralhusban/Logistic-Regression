@@ -1,6 +1,6 @@
 # Logistic-Regression from scratch using Numpy
 
-Logistic regression is central to Neural Networks and Deep Learning - hence learning how to do it from scratch is essential to understand what happends under the hood when using ML libraries.
+Logistic regression is central to Neural Networks and Deep Learning - hence learning how to do it from scratch is essential to understanding what happens under the hood when using ML libraries such as sciktlearn, Keras, Tensor Flow, etc.
 
 This notebook will guide you on how to create a logistic-regression from scratch. It will include a forward pass and backpropagation.
 

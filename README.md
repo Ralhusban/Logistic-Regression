@@ -4,6 +4,10 @@ Logistic regression is central to Neural Networks and Deep Learning - hence lear
 
 This notebook will guide you on how to create a logistic-regression from scratch. It will include a forward pass and backpropagation.
 
+You are free to re-use my code however, please provide a reference to it if you're publishing it anywhere else.
+
+
+
 References:
 
 Derivative of the Sigmoid function https://towardsdatascience.com/derivative-of-the-sigmoid-function-536880cf918e

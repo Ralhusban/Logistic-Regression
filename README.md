@@ -6,6 +6,7 @@ This notebook will guide you on how to create a logistic-regression from scratch
 
 You are free to re-use my code however, please provide a reference to it if you're publishing it anywhere else.
 
+If any parts of the code is unclear, please let me know and I'll do my best to answer your query.
 
 
 References:
